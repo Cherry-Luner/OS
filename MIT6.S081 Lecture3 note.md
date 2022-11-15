@@ -128,7 +128,7 @@
 
 `userinit`：最后当所有的设置都完成了，操作系统也运行起来了，会通过`userinit`运行第一个进程
 
-<img src="E:\Typore-Picture\image-20221116002405323.png" style="zoom:80%;" />
+![](E:\Typore-Picture\image-20221116002405323.png)
 
 
 
